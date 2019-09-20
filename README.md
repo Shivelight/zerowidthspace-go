@@ -7,7 +7,7 @@ At one point, I'm so tired of leaving my terminal and editor window to launch fi
 ## Installation
 
 ```sh
-go install https://github.com/Shivelight/zerowidthspace-go/cmd/...
+go get github.com/Shivelight/zerowidthspace-go/cmd/...
 ```
 
 ## Usage
